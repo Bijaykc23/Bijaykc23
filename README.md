@@ -1,7 +1,6 @@
 
 ![Header](github-header-image.png)
 
-<h1 align="center">Hello 👋, I'm Bijay KC</h1>
 <h3 align="center">Aspiring Data-driven Business Analyst</h3>
 <img align="right" alt="Coding" width="400" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA0NWJiYjUxMjU5MjBlZmZkMmJjYmFkODU4YzhhZGZiMDAxZGRlNSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif>
 
